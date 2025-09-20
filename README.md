@@ -8,7 +8,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step1 : input numpy module to use built in function
 ### Step 2: Assign matrix A in np.array()
 ### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
-### Step 4: endn of the program
+### Step 4: end of the program
 
 ## Program:
 <img width="702" height="223" alt="Screenshot 2025-09-20 155736" src="https://github.com/user-attachments/assets/df4279d1-e207-4643-a5f7-8feb0a4a8ece" />
